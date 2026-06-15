@@ -1,0 +1,20 @@
+Position: Senior Software Engineer (Backend Focus)
+Company: CloudNexus Technologies
+Location: Remote (US/Canada)
+
+ABOUT THE ROLE
+We are seeking a talented Senior Software Engineer with a strong backend focus to join our engineering team. You will design, build, and optimize microservices that power our core analytics engine. You'll collaborate closely with Frontend teams and DevOps to deliver reliable, high-performance features in a fast-paced environment.
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 5+ years of software development experience with Python.
+- Proven experience building high-throughput REST APIs using FastAPI.
+- Strong hands-on experience with cloud infrastructure, specifically AWS (EC2, Lambda, S3, RDS).
+- Familiarity with TypeScript and modern frontend frameworks like Next.js or React.
+- Solid understanding of caching strategies using Redis.
+- Extensive experience with Docker and setting up CI/CD pipelines (e.g., GitHub Actions, Jenkins).
+- Experience working with PostgreSQL databases and ORMs (SQLAlchemy, Alembic).
+- Excellent communication and collaboration skills.
+
+PREFERRED QUALIFICATIONS
+- Experience with GraphQL APIs.
+- Background in building Event-Driven Architectures using Kafka or RabbitMQ.

@@ -1,0 +1,21 @@
+Position: Senior Growth Product Manager
+Company: Velocity Pay
+Location: New York, NY (Hybrid)
+
+ABOUT THE ROLE
+Velocity Pay is a fast-growing FinTech company. We are looking for a Senior Growth Product Manager to own our acquisition and expansion funnel. In this role, you will run rapid experimentation to optimize user sign-up, activation, and monetization. You will collaborate with growth marketing, data science, and engineering to drive growth.
+
+KEY RESPONSIBILITIES
+- Own the conversion, onboarding, and monetization funnels, running continuous A/B testing.
+- Design, deploy, and analyze growth experiments using Optimizely, Mixpanel, and SQL.
+- Implement Product-Led Growth (PLG) strategies to scale acquisition virally.
+- Define pricing and packaging experiments to optimize average revenue per user (ARPU).
+- Partner with product marketing to align messaging and launch growth campaigns.
+
+REQUIREMENTS & SKILLS
+- 5+ years of Product Management experience, with at least 2 years in a Growth PM role.
+- Extensive experience running A/B tests and multivariate experiments.
+- Strong analytical skills, with advanced SQL knowledge and experience with Mixpanel, Optimizely, or Heap.
+- Deep understanding of FinTech compliance, payment gateways, and subscription billing.
+- Experience building financial models or working on SaaS pricing strategies.
+- Background in software engineering or a highly technical degree is a strong plus.

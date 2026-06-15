@@ -1,0 +1,27 @@
+Sarah Jenkins
+Email: sarah.jenkins@email.com | Phone: (555) 045-8912 | Location: New York, NY
+
+SUMMARY
+Result-oriented Product Manager with 4+ years of experience leading cross-functional teams to deliver mobile and web SaaS applications. Expert in agile methodologies, backlog grooming, and customer discovery. Proven track record of launching features that drive user engagement and revenue growth.
+
+EXPERIENCE
+Product Manager | PeakSaaS Systems | Jan 2023 - Present
+- Led a cross-functional squad of 8 engineers and 2 designers to launch a new collaborative workspace feature, increasing user engagement by 40%.
+- Conducted 30+ customer discovery interviews, translating user pain points into actionable user stories and product requirements (PRDs).
+- Defined and tracked product metrics (MAU, retention, NPS) using Amplitude, leading to a 10% drop in onboarding churn.
+- Managed the product backlog, facilitating sprint planning, stand-ups, and retrospectives.
+
+Associate Product Manager | RetailGenius Corp | Sept 2021 - Dec 2022
+- Managed the roadmap for the customer checkout flow, leading to a 5% increase in conversion rate.
+- Analyzed transaction data using SQL and Excel to identify friction points in the payment pipeline.
+- Collaborated with QA and customer success teams to triage and resolve post-release bugs.
+- Drafted monthly product release notes and internal training materials for customer support.
+
+EDUCATION
+B.A. in Business Administration (Minor in Computer Science) | NYU Stern School of Business | 2017 - 2021
+
+SKILLS
+- Product Management: Roadmapping, PRDs, Backlog Grooming, Customer Discovery
+- Methodologies: Agile, Scrum, Kanban
+- Tools: Jira, Confluence, Amplitude, Figma, Excel, Slack
+- Analytics: SQL, Google Analytics, Data Visualization

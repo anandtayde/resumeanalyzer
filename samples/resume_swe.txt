@@ -1,0 +1,28 @@
+Alex Johnson
+Email: alex.johnson@email.com | Phone: (555) 019-2834 | LinkedIn: linkedin.com/in/alexj
+Location: San Francisco, CA
+
+SUMMARY
+Detail-oriented Software Engineer with 3+ years of experience building scalable web applications. Proficient in Python, JavaScript, and SQL. Experienced in working with Flask, Django, and PostgreSQL. Passionate about writing clean, maintainable code and optimizing database performance.
+
+EXPERIENCE
+Software Engineer | TechFlow Solutions | June 2024 - Present
+- Developed and maintained core backend APIs using Python (Flask) and PostgreSQL, serving 50,000+ monthly active users.
+- Collaborative team member in migrating legacy monolithic codebases into modular microservices.
+- Optimized SQL queries and database indexes, reducing API latency by 25%.
+- Implemented user authentication and role-based access control using JWT.
+
+Junior Developer | ByteCraft Studio | Sept 2022 - May 2024
+- Wrote clean frontend components using React and HTML/CSS.
+- Collaborated with product managers to define UI/UX specifications for new web apps.
+- Conducted unit testing and debugging across frontend and backend modules, increasing code coverage by 15%.
+- Participated in weekly agile stand-ups and code reviews.
+
+EDUCATION
+B.S. in Computer Science | University of California, Berkeley | 2018 - 2022
+
+TECHNICAL SKILLS
+- Languages: Python, JavaScript, HTML, CSS, SQL
+- Frameworks: Flask, Django, React, Express.js
+- Databases: PostgreSQL, SQLite
+- Tools: Git, Docker, Postman
